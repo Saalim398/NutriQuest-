@@ -1,0 +1,9 @@
+com/nutriquest/ui/InstructionScreen.class
+com/nutriquest/model/GameSession.class
+com/nutriquest/model/FoodType.class
+com/nutriquest/ui/StartScreen.class
+com/nutriquest/ui/GameOverScreen.class
+com/nutriquest/ui/FoodExplorerScreen.class
+com/nutriquest/App.class
+com/nutriquest/ui/QuizScreen.class
+com/nutriquest/model/Question.class
