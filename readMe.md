@@ -1,11 +1,11 @@
-# 🥗 NutriQuest
+# NutriQuest
 
 NutriQuest is an educational JavaFX game that makes learning about nutrition fun and interactive. Players improve their nutritional knowledge through engaging gameplay, challenges, and healthy food choices.
 
-## 🎮 Features
+## Features
 
-* Interactive nutrition-based gameplay
-* User-friendly JavaFX interface
+* Interactive nutrition based gameplay
+* User friendly JavaFX interface
 * Educational and entertaining experience
 * Score tracking system
 * Healthy food awareness
@@ -13,7 +13,7 @@ NutriQuest is an educational JavaFX game that makes learning about nutrition fun
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Java 21
 * JavaFX
@@ -22,7 +22,7 @@ NutriQuest is an educational JavaFX game that makes learning about nutrition fun
 
 ---
 
-# 🚀 Running the Game
+# Running the Game
 
 ## Method 1: Run the JAR File (Recommended)
 
@@ -63,7 +63,7 @@ java -jar NutriQuest.jar
 
 ---
 
-# 🧑‍💻 Running from Source
+# Running from Source
 
 ### Clone the repository
 
@@ -86,7 +86,7 @@ mvn javafx:run
 
 ---
 
-# 📂 Project Structure
+# Project Structure
 
 ```text
 NutriQuest/
@@ -104,7 +104,7 @@ NutriQuest/
 
 ---
 
-# 📋 Prerequisites
+# Prerequisites
 
 * JDK 21
 * Maven 3.8+
@@ -112,13 +112,13 @@ NutriQuest/
 
 ---
 
-# 🎯 Educational Objective
+# Educational Objective
 
 NutriQuest aims to spread awareness about healthy eating habits and nutrition through gamification. Players learn to identify nutritious foods and make healthier choices while enjoying the game.
 
 ---
 
-# 🤝 Contributing
+# Contributing
 
 Contributions are welcome.
 
@@ -145,7 +145,7 @@ git push origin feature-name
 
 ---
 
-# 📄 License
+# License
 
 This project is licensed under the MIT License.
 
@@ -156,4 +156,4 @@ This project is licensed under the MIT License.
 **Mohammad Saalim Khan**
 
 Computer Science & Engineering Student
-Java • JavaFX • Machine Learning • Android Development
+
